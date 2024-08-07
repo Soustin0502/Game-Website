@@ -149,7 +149,8 @@ td{
 
 .header .logo{
     cursor: pointer;
-    scale: 1;
+    scale: 0.6;
+    /* left: -50vh; */
 }
 
 
